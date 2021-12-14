@@ -38,4 +38,4 @@ while True:
         continue
     else:
         print("Chiudo il programma.")
-        
+        break
