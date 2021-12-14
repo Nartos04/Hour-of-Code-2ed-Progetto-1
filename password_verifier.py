@@ -35,6 +35,6 @@ while True:
     
     if not re.search("[\.,_-]+",password):
         print("La password deve contenere almeno un carattere speciale: .,_-")
-    
+        continue 
 
 print("Chiudo il programma.")
